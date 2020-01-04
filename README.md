@@ -14,8 +14,10 @@ This program to detect whether two polygons shapes are adjacent, touching, or ov
 
 
 #Test case:#
- We have two object which have their vertices in form of a list : [[[140,40],[180,100],[100,100]],[[100,100],[180,100],[180,160],[100,180]]]
+ We have two object which have their vertices in form of a list :  [[[10,40],[40,10],[40,70]],[[40,10],[70,10],[70,70]]]
 ![Fig1](Annotation%202020-01-04%20003205.png)
+As in case 1 in figure 1. running the program by appropriately renaming or just choosing points6 to be points so that program understand that we have two objects and we want to check them. 
+**Results**
 ![Fig2](Annotation%202020-01-04%20011812.png)
 
 # Author : Mohamed Abidalrekab
